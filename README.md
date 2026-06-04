@@ -4,10 +4,6 @@
 
 
 
-<div align="center">
-  <img src="./domain_constellation.svg" alt="Domain constellation map" />
-</div>
-
 ---
 
 ### 🛡️ Cybersecurity Student | Still figuring it out, one packet at a time
@@ -20,6 +16,10 @@ I'm a student who somehow ended up in cybersecurity and decided to stick around.
 - ⚡ Fun fact: I break things on purpose and call it research
 
 ---
+
+<div align="center">
+  <img src="./domain_constellation.svg" alt="Domain constellation map" />
+</div>
 
 ### 🧰 Skills & Tools
 
