@@ -13,12 +13,13 @@ I'm a student who somehow ended up in cybersecurity and decided to stick around.
 - 🌍 Based in **India**
 - 📬 Reach me at [shanthan6710@gmail.com](mailto:shanthan6710@gmail.com)
 - 🔐 Currently learning: ethical hacking, network security & web vulnerabilities
-- ⚡ Fun fact: I break things on purpose and call it research
+- ✌🏻 And I need to touch grass  
 
 ---
 
 <div align="center">
   <img src="./domain_constellation_animated.svg" alt="Domain constellation map" />
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shancode669&theme=github-dark)
 </div>
 
 ### 🧰 Skills & Tools
