@@ -128,7 +128,3 @@ I'm a student who somehow ended up in cybersecurity and decided to stick around.
 <div align="center">
   <img src="./rpg_traveler.svg" alt="Thanks for visiting, traveler!" />
 </div>
-  <a href="http://www.github.com/shancode669">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shancode669&stroke=ffffff&background=0d1117&ring=00c896&fire=00c896&currStreakNum=ffffff&currStreakLabel=00c896&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Shanthan's GitHub streak" />
-  </a>
-</p>
