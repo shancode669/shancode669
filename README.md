@@ -2,6 +2,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00C896&center=true&vCenter=true&width=500&lines=Hiii%2C+I'm+Shanthan+%F0%9F%91%8B;Cybersecurity+Student;Breaking+things+legally+%F0%9F%94%90" alt="Typing SVG" />
 </div>
 
+<div align="center">
+  <img src="./cyberpunk_badges.svg" alt="Cyberpunk status nodes" />
+</div>
+
+<div align="center">
+  <img src="./domain_constellation.svg" alt="Domain constellation map" />
+</div>
+
 ---
 
 ### 🛡️ Cybersecurity Student | Still figuring it out, one packet at a time
@@ -42,6 +50,14 @@ I'm a student who somehow ended up in cybersecurity and decided to stick around.
 
 ---
 
+### 🧠 Currently Learning
+
+- 📡 Networking Protocols — diving deep into how things actually talk to each other
+- 📜 **ISC2 CC** — Certified in Cybersecurity *(entry level, but it counts)*
+- 🔐 **CompTIA Security+** — the one everyone tells you to get first
+
+---
+
 ### 🚧 Projects
 
 > Working on 'em... coming soon. 👀
@@ -53,6 +69,16 @@ I'm a student who somehow ended up in cybersecurity and decided to stick around.
 | 🛠️ TBA | A tool. maybe. | `coming soon` |
 
 *Check back later. Or don't. The repos will be here either way.*
+
+---
+
+### 🗂️ Portfolio
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-%2300c896?style=for-the-badge&logo=vercel&logoColor=black)](https://shancode669-github-io.vercel.app/)
+
+</div>
 
 ---
 
@@ -86,6 +112,22 @@ I'm a student who somehow ended up in cybersecurity and decided to stick around.
 </p>
 
 <p align="left">
+  <a href="http://www.github.com/shancode669">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shancode669&stroke=ffffff&background=0d1117&ring=00c896&fire=00c896&currStreakNum=ffffff&currStreakLabel=00c896&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Shanthan's GitHub streak" />
+  </a>
+</p>
+
+---
+
+### 👁️ Visitor Count
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=shancode669.shancode669)
+
+---
+
+<div align="center">
+  <img src="./rpg_traveler.svg" alt="Thanks for visiting, traveler!" />
+</div>
   <a href="http://www.github.com/shancode669">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=shancode669&stroke=ffffff&background=0d1117&ring=00c896&fire=00c896&currStreakNum=ffffff&currStreakLabel=00c896&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Shanthan's GitHub streak" />
   </a>
