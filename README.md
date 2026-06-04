@@ -18,7 +18,7 @@ I'm a student who somehow ended up in cybersecurity and decided to stick around.
 ---
 
 <div align="center">
-  <img src="./domain_constellation_animated.gif" alt="Domain constellation map" />
+  <img src="./domain_constellation_animated.svg" alt="Domain constellation map" />
 </div>
 
 ### 🧰 Skills & Tools
