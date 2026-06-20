@@ -60,14 +60,15 @@ I'm a student who somehow ended up in cybersecurity and decided to stick around.
 
 > Working on 'em... coming soon. 👀
 
+### 🚧 Projects
+
 | Project | Description | Status |
 |--------|-------------|--------|
+| 🧰 [apitester-cli](https://github.com/shancode669/apitester-cli) | A full-featured CLI API tester — like Postman, but it never leaves your terminal. Includes local AI-powered failure debugging via Ollama. | `active` |
 | 🔒 TBA | Something in the security space | `coming soon` |
 | 🌐 TBA | Something web-related | `coming soon` |
-| 🛠️ TBA | A tool. maybe. | `coming soon` |
 
-*Check back later. Or don't. The repos will be here either way.*
-
+*More on the way. The repos will be here either way.*
 ---
 
 ### 🗂️ Portfolio
