@@ -18,19 +18,24 @@
 
 ---
 
-```text
-$ whoami
+<div align="center">
+
+#  whoami
+
 ```
-Cybersecurity student. Comfortable across Python, Java, and C. Learning ethical 
-hacking, network security, and web vulnerabilities — and building things to 
+Cybersecurity student. Comfortable across Python, Java, and C. Learning ethical
+hacking, network security, and web vulnerabilities — and building things to
 actually understand how they break.
+```
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/shanthan-sai-m)
-- 🗂️ [Portfolio](https://shancode669-github-io.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-visit-00c896?style=for-the-badge&logo=vercel&logoColor=white)](https://shancode669-github-io.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-connect-0891b2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shanthan-sai-m)
 
----
+</div>
 
-──────────[ SKILLS ]──────────
+<br>
+
+## 🧩 skills.stack
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a>
@@ -48,14 +53,36 @@ actually understand how they break.
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a>
 </p>
 
-──────────[ PROJECTS ]──────────
+<br>
 
-| Project | Description | Status |
-|--------|-------------|--------|
-| 🧰 [apitester-cli](https://github.com/shancode669/apitester-cli) | CLI API tester — Postman, but it never leaves your terminal. Local AI-powered failure debugging via Ollama. | `active` |
-| 🎣 [PhishGuard](https://github.com/shancode669/phishguard) | Phishing URL detector — FastAPI backend, Random Forest model trained on 2000 labeled URLs across 17 features. Retro pixel-art UI. | `active` |
+## 🛠️ active.projects
 
-──────────[ CONNECT ]──────────
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧰 [apitester-cli](https://github.com/shancode669/apitester-cli)
+CLI API tester — Postman, but it never leaves your terminal. Local AI-powered failure debugging via Ollama.
+
+`status: active`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎣 [PhishGuard](https://github.com/shancode669/phishguard)
+Phishing URL detector — FastAPI backend, Random Forest model trained on 2000 labeled URLs across 17 features. Retro pixel-art UI.
+
+`status: active`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 📡 connect
+
+<div align="center">
 
 <p align="left">
 <a href="https://www.github.com/shancode669" target="_blank" rel="noreferrer">
@@ -74,8 +101,6 @@ actually understand how they break.
 </a>
 </p>
 
-<p align="left">
-  <a href="http://www.github.com/shancode669">
-    <img src="https://github-readme-stats.vercel.app/api?username=shancode669&show_icons=true&hide=&count_private=true&title_color=00c896&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true" alt="Shanthan's GitHub stats" />
-  </a>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=shancode669&show_icons=true&hide=&count_private=true&title_color=00c896&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true" alt="Shanthan's GitHub stats" />
+
+</div>
