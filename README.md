@@ -23,9 +23,8 @@ echo "                                                                          
 #  whoami
 
 ```
-Cybersecurity student. Comfortable across Python, Java, and C. Learning ethical
-hacking, network security, and web vulnerabilities — and building things to
-actually understand how they break.
+Cybersecurity student, junior full stack dev. Comfortable across Python, Java, and C. Learning ethical
+hacking, network security, and web vulnerabilities.
 ```
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-visit-00c896?style=for-the-badge&logo=vercel&logoColor=white)](https://shancode669-github-io.vercel.app/)
@@ -37,7 +36,7 @@ actually understand how they break.
 
 ## 🧩 skills.stack
 
-<p align="left">
+<p align="center">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a>
